@@ -1,0 +1,11 @@
+[package]
+name = "Counting_Crate"
+version = "0.1.0"
+authors = ["marsalan485 <marsalan485@gmail.com>"]
+edition = "2018"
+description = "By using this crate you can print counting.For use this crate you can writer these lines in your project main.rs file.  'extern crate Counting_Crate; ' , 'Counting_Crate::counter(start value,end value); ' "
+license = "MIT"
+repository = "https://github.com/marsalan485/Rust_Repository"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
